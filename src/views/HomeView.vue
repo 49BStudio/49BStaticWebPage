@@ -32,7 +32,7 @@ import { FwbCard, FwbHeading, FwbP, FwbImg, FwbButton } from 'flowbite-vue'
     >
       <fwb-card
         img-alt="banner"
-        img-src="public\images\bannerRunningBeehind.png"
+        img-src="./images/bannerRunningBeehind.png"
         variant="image"
         href="#"
         class="basis-1/2 max-w-24 min-h-full"
