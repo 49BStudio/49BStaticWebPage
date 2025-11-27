@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '@/views/HomeView.vue'
 import GamePage from '@/views/GamePage.vue'
-import RunningBeehind from '@/views/runningBeehind.vue'
+import RunningBeehind from '@/views/RunningBeehind.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
