@@ -4,7 +4,7 @@ import { FwbNavbar, FwbNavbarCollapse, FwbNavbarLink, FwbNavbarLogo } from 'flow
 <template>
   <fwb-navbar solid>
     <template #logo>
-      <fwb-navbar-logo alt="Flowbite logo" image-url="./images/49BLogo.png" link="#">
+      <fwb-navbar-logo alt="Flowbite logo" image-url="./images/49BLogo.png" link="/">
         49B
       </fwb-navbar-logo>
     </template>

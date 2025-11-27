@@ -2,7 +2,7 @@
 import { FwbFooter, FwbFooterCopyright, FwbFooterLink, FwbFooterLinkGroup } from 'flowbite-vue'
 </script>
 <template>
-  <fwb-footer footer-type="socialmedia">
+  <fwb-footer footer-type="socialmedia" class="max-h-100">
     <div class="md:flex md:justify-between">
       <fwb-footer-brand
         alt="Flowbite Logo"

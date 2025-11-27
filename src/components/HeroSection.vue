@@ -18,8 +18,8 @@
           <!-- making games that inspire and make you give a feeling that makes you shout:'weeeeee' -->
           <!--change to actual text in the future-->
         </p>
-        <a
-          href="/games"
+        <router-link
+          to="/games"
           class="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
         >
           See our games!
@@ -35,7 +35,7 @@
               clip-rule="evenodd"
             ></path>
           </svg>
-        </a>
+        </router-link>
       </div>
       <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
         <img src="/images/49BLogo.png" alt="mockup" />
