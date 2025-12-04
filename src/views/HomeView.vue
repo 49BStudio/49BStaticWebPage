@@ -13,11 +13,8 @@ import { FwbCard, FwbHeading, FwbP, FwbImg, FwbButton } from 'flowbite-vue'
     <section class="md:w-1/2">
       <fwb-heading tag="h2">About Us!</fwb-heading>
       <fwb-p class="md:w-1/2">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum sapien sit amet
-        vehicula blandit. Phasellus vel tincidunt ipsum. Vivamus placerat tortor at enim maximus
-        facilisis. Sed sodales velit in ex fermentum, vitae dignissim nisl placerat. Proin sit amet
-        efficitur orci, quis euismod sapien. Nam sagittis arcu et felis consequat, eget egestas
-        risus sodales. Nullam quis arcu consequat, dapibus est at, scelerisque mi.
+        49B is a game studio based in Rotterdam which consists of 11 people. We combined our skillsets as designers, artists and
+        developers with the help of our producer to make "Running Beehind", a 3D platformer game with a speed-based delivery objective.
       </fwb-p>
     </section>
   </section>
